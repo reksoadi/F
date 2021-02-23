@@ -1,0 +1,9 @@
+
+/* selectize.bootstrap3.css | http://127.0.0.1:6817/shared/selectize/css/selectize.bootstrap3.css */
+
+.selectize-dropdown, .selectize-input, .selectize-input input {
+  /* line-height: 20px; */
+  line-height: 40px;
+}
+
+
